@@ -1,0 +1,34 @@
+body {
+    font-family: Axiforma, sans-serif;
+    background-color: rgb(255, 246, 235);
+    float: center;
+}
+
+main {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, h2, p {
+    padding-left: 20px;
+}
+
+.list-card {
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+    width: 600px;
+}
+
+li {
+    margin: 10px;
+}
+
+img {
+    border-radius: 10px;
+    height: auto;
+    width: 620px;
+    margin-left: 20px;
+}
